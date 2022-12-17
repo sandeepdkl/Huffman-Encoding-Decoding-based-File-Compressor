@@ -1,1 +1,1 @@
-# Huffman-Encoding-Decoding-based-File-Compressor
+This software encodes a text file into a smaller size and decodes back to the original file. It uses Huffman's Encoding Algorithm - a lossless data compression algorithm. The user interface is developed using HTML, CSS, and JavaScript is used for programming logic. 
